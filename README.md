@@ -1,6 +1,19 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/chashmanrazzaq/AgroChain.git).
+
+## Screenshots
+
+<p align="center">
+  <img src="./public/assets/s1.png" alt="Screenshot 1" width="300">
+  <img src="./public/assets/s2.png" alt="Screenshot 2" width="300">
+  <img src="./public/assets/s3.png" alt="Screenshot 3" width="300">
+  <img src="./public/assets/s4.png" alt="Screenshot 4" width="300">
+  <img src="./public/assets/s5.png" alt="Screenshot 5" width="300">
+  <img src="./public/assets/s6.png" alt="Screenshot 6" width="300">
+  <img src="./public/assets/s7.png" alt="Screenshot 7" width="300">
+  <img src="./public/assets/s8.png" alt="Screenshot 8" width="300">
+</p>
 
 ## Available Scripts
 
